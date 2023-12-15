@@ -1,10 +1,7 @@
-# django_vue_challenge
-Django+Vue cyber security challenge (A03:2021-Injection, A07:2021-Identification and Authentication Failures )
-
-# [Your Application Name]: Cybersecurity Challenge
+# Django-vue-challenge: Cybersecurity Challenge
 
 ## Introduction
-Welcome to **django_vue_challenge**, a cybersecurity challenge designed for beginners in the field. This application provides a hands-on experience in understanding and executing basic security penetration techniques.
+Welcome to **django_vue_challenge**, a cybersecurity challenge designed for beginners in the field. This application provides a hands-on experience in understanding and executing basic security penetration techniques. This challenge is related to: A03:2021-Injection, A07:2021-Identification and Authentication Failures.
 
 ### Objectives
 - Bypass the login page using common cybersecurity techniques.
@@ -60,15 +57,11 @@ Welcome to **django_vue_challenge**, a cybersecurity challenge designed for begi
   - Identify points where user input may be improperly sanitized.
 
 ## Learning Resources
-- Link to SQL injection basics: (https://portswigger.net/web-security/sql-injection)
+- Link to SQL injection basics: https://portswigger.net/web-security/sql-injection
 - Link to authentication vulnerabilities and solutions: https://portswigger.net/web-security/authentication
 
 ## Support and Community
-- Join our community [link to forum or group] for discussions and support.
-- For technical issues, please open an issue on [link to issue tracker].
-
-## Contributing
-We welcome contributions from the cybersecurity community. Please read our contribution guidelines [link to guidelines] before submitting a pull request.
+- For technical issues, please contact me.
 
 ## License
-This project is licensed under [Your License Name] - see the [LICENSE.md](LICENSE) file for details.
+Feel free to utilize this whenever you deem it appropriate.
