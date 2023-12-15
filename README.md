@@ -60,8 +60,8 @@ Welcome to **django_vue_challenge**, a cybersecurity challenge designed for begi
   - Identify points where user input may be improperly sanitized.
 
 ## Learning Resources
-- Link to SQL injection basics: [https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
-- [Link to authentication vulnerabilities and solutions]: https://portswigger.net/web-security/authentication
+- Link to SQL injection basics: (https://portswigger.net/web-security/sql-injection)
+- Link to authentication vulnerabilities and solutions: https://portswigger.net/web-security/authentication
 
 ## Support and Community
 - Join our community [link to forum or group] for discussions and support.
